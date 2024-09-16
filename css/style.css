@@ -1,0 +1,76 @@
+.header{
+    background-image: url(../images/background.jpg);
+    background-size: 100% 100%
+  }
+  
+
+  .background1 {
+    background: linear-gradient( #013e5b, #046689);
+  }
+
+  .background2 {
+    background: linear-gradient( #046689, #0083a9);
+  }
+  
+  .background3 {
+    background: linear-gradient( #0083a9, #2ca5cc);
+  }
+
+  .background4 {
+    background: linear-gradient( #2ca5cc, #66cfed);
+  }
+
+
+
+.profile-image{
+border-radius: 50%;
+width: 12rem;
+}
+  
+.main-title{
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+    font-size: 50px; 
+    color: white;
+}
+
+.title{
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+    font-size: 50px; 
+    color: white
+}
+
+.intro{
+    width: 400px;
+    margin: auto;
+    font-family: "Playfair Display", serif;
+    font-size: 20px;
+    color: white
+}
+
+.card1{
+    background-image: url(../images/cat-laptop.png);
+    background-position: 30%;
+}
+
+.card2{
+    background-image: url(../images/communication.jpg);
+    background-size: 100% 100%;
+}
+
+.card3{
+    background-image: url(../images/team-work.jpg);
+    background-size: 100% 100%;
+}
+
+p{
+    padding-top: 20px;
+}
+
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
